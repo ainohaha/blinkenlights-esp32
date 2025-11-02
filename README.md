@@ -1,4 +1,4 @@
-# bad-apple-esp32leds
+# das Blinkenlights
 
 # Assignment for Arduino Rhythmic LED Patterns
 
