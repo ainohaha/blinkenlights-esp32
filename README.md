@@ -1,7 +1,5 @@
 # das Blinkenlights
 
-# Assignment for Arduino Rhythmic LED Patterns
-
 Needed to create three distinct rhythmic patterns for blinking LEDs using an Adafruit ESP32 Feather and the Arduino IDE.
 
 > **Assignment:**
